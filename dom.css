@@ -1,0 +1,10 @@
+div{
+    width: 500px;
+    background-color: rgb(159, 108, 41);
+    position: relative;
+    top: 100px;
+    left: 500px;
+    padding: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
